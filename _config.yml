@@ -1,0 +1,28 @@
+name: Keiretsu Forum News
+favicon: null
+layout_spectrum: 0.49441072973422706
+typography_spectrum: 0.37937880237586796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.25647695106454194
+  lightness: 0.5770885169040412
+  saturation: 0.18961523729376495
+  rhythmicContrast: 0.8261073117610067
+purpose: []
