@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Keiretsu Forum News]]></title>
         <description><![CDATA[Keiretsu Forum News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/keiretsu-forum-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 21:01:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 22:35:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/keiretsu-forum-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec94b335-e8a1-4b31-8907-b819d302805e.jpg">]]></description>
+            <link>https://thegrid.ai/keiretsu-forum-news/7e49d87e-d9fe-4cb6-b4f3-93a2c5bd9a71/index.html</link>
+            <guid isPermaLink="false">7e49d87e-d9fe-4cb6-b4f3-93a2c5bd9a71</guid>
+            <pubDate>Fri, 08 Jan 2016 22:35:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First New]]></title>
             <description><![CDATA[<article><h1>First New</h1><p>Testing </p></article>]]></description>
-            <link>undefinedfirst-new/index.html</link>
+            <link>https://thegrid.ai/keiretsu-forum-news/first-new/index.html</link>
             <guid isPermaLink="false">c85e9410-f6c0-48b1-a84e-3b89fe54ce88</guid>
             <pubDate>Fri, 08 Jan 2016 21:01:11 GMT</pubDate>
         </item>
