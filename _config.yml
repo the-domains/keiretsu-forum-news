@@ -1,6 +1,6 @@
 name: Keiretsu Forum News
 favicon: null
-layout_spectrum: 0.49441072973422706
+layout_spectrum: 0.76361
 typography_spectrum: 0.37937880237586796
 title: News
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#c92434'
+    - '#414141'
+    - '#000000'
+    - '#b8b8b8'
   brandStrength: 0.25647695106454194
   lightness: 0.5770885169040412
   saturation: 0.18961523729376495
