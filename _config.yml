@@ -2,6 +2,7 @@ name: Keiretsu Forum News
 favicon: null
 layout_spectrum: 0.49441072973422706
 typography_spectrum: 0.37937880237586796
+title: News
 cta:
   domain: null
   bucket: null
