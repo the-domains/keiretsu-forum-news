@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://usa.visa.com'
-  name: Visa
-  favicon: 'https://usa.visa.com/content/dam/VCOM/Brand/favicon.ico'
-  domain: usa.visa.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://usa.visa.com/partner-with-us/visa-performance-solutions/seasonal-hiring-slows.html'
+inLanguage: en
+starred: true
 keywords:
   - visa
   - e-commerce
@@ -18,17 +17,20 @@ keywords:
   - lung
   - labor
 description: "Now that the 2015 holiday season is over-gifts unwrapped, enjoyed and in some cases exchanged-today's jobs report from the Bureau of Labor Statistics revealed how many people were needed to make the seasonal shopping event possible. Retailers and delivery companies hired nearly a million staff to help with what's typically the busiest time of the year for them."
-inLanguage: en
+datePublished: '2016-01-14T18:28:11.632Z'
+dateModified: '2016-01-14T18:27:43.193Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://usa.visa.com/partner-with-us/visa-performance-solutions/seasonal-hiring-slows.html'
 title: Seasonal Hiring Slows
-datePublished: '2016-01-14T18:18:47.899Z'
-dateModified: '2016-01-14T18:17:54.191Z'
 sourcePath: _posts/2016-01-14-seasonal-hiring-slows.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Visa
+  domain: usa.visa.com
+  url: 'https://usa.visa.com'
+  favicon: 'https://usa.visa.com/content/dam/VCOM/Brand/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
