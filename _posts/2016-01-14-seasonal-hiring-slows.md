@@ -17,8 +17,8 @@ keywords:
   - lung
   - labor
 description: "Now that the 2015 holiday season is over-gifts unwrapped, enjoyed and in some cases exchanged-today's jobs report from the Bureau of Labor Statistics revealed how many people were needed to make the seasonal shopping event possible. Retailers and delivery companies hired nearly a million staff to help with what's typically the busiest time of the year for them."
-datePublished: '2016-01-14T18:28:11.632Z'
-dateModified: '2016-01-14T18:27:43.193Z'
+datePublished: '2016-01-14T18:30:08.598Z'
+dateModified: '2016-01-14T18:30:04.031Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Seasonal Hiring Slows</h1><p>Now that the 2015 holiday season is over-gifts unwrapped&amp;comma; enjoyed and in some cases exchanged-today's jobs report from the Bureau of Labor Statistics revealed how many people were needed to make the seasonal shopping event possible&amp;period; Retailers and delivery companies hired nearly a million staff to help with what's typically the busiest time of the year for them&amp;period;</p><img src="https://usa.visa.com/content/dam/VCOM/Global%20Elements/vps/us-seasonal-hiring-graph-line-800x450.jpg" /></article>
+<article style=""><h1>Seasonal Hiring Slows</h1><p>Now that the 2015 holiday season is over-gifts unwrapped, enjoyed and in some cases exchanged-today's jobs report from the Bureau of Labor Statistics revealed how many people were needed to make the seasonal shopping event possible. Retailers and delivery companies hired nearly a million staff to help with what's typically the busiest time of the year for them.</p><img src="https://usa.visa.com/content/dam/VCOM/Global%20Elements/vps/us-seasonal-hiring-graph-line-800x450.jpg" /></article>
