@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T01:05:51.644Z'
-dateModified: '2016-02-24T01:05:46.775Z'
+datePublished: '2016-02-24T01:06:07.360Z'
+dateModified: '2016-02-24T01:05:59.220Z'
 title: 'Guy Kawasaki: The Top 10 Mistakes Of Entrepreneurs'
 author: []
+sourcePath: _posts/2016-02-24-guy-kawasaki-the-top-10-mistakes-of-entrepreneurs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-24-guy-kawasaki-the-top-10-mistakes-of-entrepreneurs.md
-published: true
 url: guy-kawasaki-the-top-10-mistakes-of-entrepreneurs/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7f1ab27-3f1e-4667-8b55-42f338aed490.jpg)
+
 # Guy Kawasaki: The Top 10 Mistakes Of Entrepreneurs
 
 Few people have seen more of the dumb mistakes entrepreneurs make than [Guy Kawasaki][0], the former Apple evangelist and venture capitalist who has since written 13 books on entrepreneurship, startups, and running businesses.
