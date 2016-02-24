@@ -4,7 +4,7 @@
         <description><![CDATA[K4SOCAL NEWS]]></description>
         <link>https://thegrid.ai/keiretsu-forum-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 01:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 01:19:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/keiretsu-forum-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 24 Feb 2016 00:20:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nimble Predictive All Flash Array With V-NAND]]></title>
+            <description><![CDATA[<article><h1>Nimble Predictive All Flash Array With V-NAND</h1><p>Nimble Storage has been known for its hybrid storage systems that combine flash memory and storage together in order to provide an optimized trade-off between performance and storage costs. The company introduced its first All Flash Array (AFA) with predictive analytic features and the ability to cluster this array with their existing hybrid storage arrays to provide a large flexible storage pool.</p></article>]]></description>
+            <link>https://thegrid.ai/keiretsu-forum-news/nimble-predictive-all-flash-array-with-v-nand/index.html</link>
+            <guid isPermaLink="false">ba1d89e4-4c1c-42be-bc63-147a6a76c237</guid>
+            <pubDate>Wed, 24 Feb 2016 01:18:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Spotify Moving Onto Google Cloud Is A Big Win For Google Over Amazon And Microsoft]]></title>
-            <description><![CDATA[<h1>Spotify Moving Onto Google Cloud Is A Big Win For Google Over Amazon And Microsoft</h1>]]></description>
+            <description><![CDATA[<article><h1>Spotify Moving Onto Google Cloud Is A Big Win For Google Over Amazon And Microsoft</h1><p>Behind the curtain of its app offering easy access to 30 million songs, Spotify engineers have been running around keeping the music flowing in physical data centers—until now. Spotify’s online streaming is now going to run on Google Cloud. Its choice of Google represents a significant win for new chiefDiane Greene and her growing teamas they take on Amazon Web Services and Microsoft.</p></article>]]></description>
             <link>https://thegrid.ai/keiretsu-forum-news/spotify-moving-onto-google-cloud-is-a-big-win-for-google-ove/index.html</link>
             <guid isPermaLink="false">72b36f4b-cc70-4d03-af05-b710e859c28b</guid>
             <pubDate>Wed, 24 Feb 2016 01:10:40 GMT</pubDate>
