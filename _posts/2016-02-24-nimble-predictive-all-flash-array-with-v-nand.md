@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T01:18:18.365Z'
-dateModified: '2016-02-24T01:18:07.134Z'
+datePublished: '2016-02-24T01:20:25.220Z'
+dateModified: '2016-02-24T01:18:27.404Z'
+title: Nimble Predictive All Flash Array With V-NAND
+author: []
+sourcePath: _posts/2016-02-24-nimble-predictive-all-flash-array-with-v-nand.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Nimble Predictive All Flash Array With V-NAND
-author: []
-sourcePath: _posts/2016-02-24-nimble-predictive-all-flash-array-with-v-nand.md
-published: true
 url: nimble-predictive-all-flash-array-with-v-nand/index.html
 _type: Article
 
