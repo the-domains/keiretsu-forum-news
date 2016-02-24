@@ -19,10 +19,10 @@ color:
   brandColors:
     - '#c0c0c0'
     - '#f2f2f2'
-    - '#c92434'
-    - '#231f20'
-    - '#3b3b3b'
-  brandStrength: 1
+    - '#dbe0e3'
+    - '#cfd4d7'
+    - '#a4acaf'
+  brandStrength: 0.5
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
