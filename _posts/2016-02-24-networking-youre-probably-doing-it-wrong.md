@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T00:34:36.217Z'
-dateModified: '2016-02-24T00:34:34.400Z'
+datePublished: '2016-02-24T00:34:55.960Z'
+dateModified: '2016-02-24T00:34:47.696Z'
 title: "Networking: You're Probably Doing It Wrong"
 author: []
+sourcePath: _posts/2016-02-24-networking-youre-probably-doing-it-wrong.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-24-networking-youre-probably-doing-it-wrong.md
-published: true
 url: networking-youre-probably-doing-it-wrong/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b5ab2e6-901a-49e0-b322-eb28f846ad98.jpg)
+
 # Networking: You're Probably Doing It Wrong
 
 If you were asked to take each person you know and categorize them under just one label: colleague, friend, relative, or associate---could you? If you answered "yes," your social graph isn't quite social enough. Social graphs aren't about contacts, categories, or caliber---they're about relationships.
