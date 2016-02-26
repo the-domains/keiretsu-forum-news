@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T18:45:12.757Z'
-dateModified: '2016-02-24T18:44:55.571Z'
+datePublished: '2016-02-25T22:36:45.632Z'
+dateModified: '2016-02-25T22:36:16.443Z'
 title: 'Smart Gun Makers To Silicon Valley VCs: Fund Us'
 author: []
+sourcePath: _posts/2016-02-24-smart-gun-makers-to-silicon-valley-vcs-fund-us.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-24-smart-gun-makers-to-silicon-valley-vcs-fund-us.md
-published: true
 url: smart-gun-makers-to-silicon-valley-vcs-fund-us/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54d47cbb-fea6-4ac1-b464-460c4bfbeea2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87b73904-a1ac-491a-863a-1db921a79eae.jpg)
 
 # Smart Gun Makers To Silicon Valley VCs: Fund Us
 
@@ -39,5 +39,6 @@ his influence behind it.
 "Half the guns sold in 10 years will be smart guns," Conway predicted on Tuesday. Smart guns encompass a wide array of technologies but are generally understood as weapons that are "user authorized." In other words, only the gun owner and whomever he or she chooses can fire the gun. Early smart gun makers have accomplished this with prototypes using biometric fingerprint technology and RFID technology, among others.
 
 "This could be a very big market," said Ralph Fascitelli, president of the gun violence prevention group CeaseFire and co-organizer of Tuesday's event. "We're talking billions of dollars annually."
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c84ab376-1753-43c9-abbf-fa816a0ff98a.jpg)
 
 [0]: http://www.forbes.com/profile/ron-conway/
